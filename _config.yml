@@ -1,8 +1,9 @@
-markdown: kramdown
+﻿markdown: kramdown
 highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
+gems: [jekyll-paginate]
 github: panxw
 author: "潘学文"
 email: winfirm#163.com
@@ -28,4 +29,4 @@ collections:
     output: true
 
 gems:
- - jekyll-paginate
+  - jekyll-paginate
