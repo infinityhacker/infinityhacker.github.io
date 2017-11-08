@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "read"
-title:  "人生什么更重要？[测试]"
+title:  "写在开头[很装逼]"
 tags: [阅读,人生]
 ---
 ### though life is  vast and hazy we shoule never give up our dreams
