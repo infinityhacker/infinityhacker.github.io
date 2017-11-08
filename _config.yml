@@ -4,12 +4,12 @@ permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
 gems: [jekyll-paginate]
-github: panxw
-author: "潘学文"
-email: winfirm#163.com
-name: "潘学文个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+github: infinityhacker
+author: "鱼蛋"
+email: 825503231@qq.com
+name: "梦想无限大个人博客"
+url: http://www.dreaminfinity.cn
+domain: www.dreaminfinty.cn
 all_categories: [
 ["android", "Android开发","/posts/android.html"], 
 ["program", "软件编程","/posts/program.html"],
@@ -17,7 +17,7 @@ all_categories: [
 ["linux", "Linux相关","/posts/linux.html"],
 ["read", "读书笔记","/posts/read.html"], 
 ["other", "杂记","/posts/other.html"],
-["about", "关于","/about.html"]
+["about", "关","/about.html"]
 ]
 
 paginate: 8
