@@ -15,7 +15,7 @@ all_categories: [
 ["program", "html5","/posts/program.html"],
 ["web", "windows相关","/posts/web.html"], 
 ["linux", "Linux相关","/posts/linux.html"],
-["read", "CSS3,"/posts/read.html"], 
+["read", "CSS3","/posts/read.html"], 
 ["other", "杂记","/posts/other.html"],
 ["about", "关于","/about.html"]
 ]
