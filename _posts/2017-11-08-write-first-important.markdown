@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "read"
+category: "android"
 title:  "写在开头[很装逼]"
 tags: [开始,感悟]
 ---
