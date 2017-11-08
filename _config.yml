@@ -11,13 +11,13 @@ name: "梦想无限大个人博客"
 url: http://www.dreaminfinity.cn
 domain: www.dreaminfinty.cn
 all_categories: [
-["android", "Android开发","/posts/android.html"], 
-["program", "软件编程","/posts/program.html"],
-["web", "Web建站","/posts/web.html"], 
+["android", "渗透","/posts/android.html"], 
+["program", "html5","/posts/program.html"],
+["web", "windows相关","/posts/web.html"], 
 ["linux", "Linux相关","/posts/linux.html"],
-["read", "读书笔记","/posts/read.html"], 
+["read", "CSS3,"/posts/read.html"], 
 ["other", "杂记","/posts/other.html"],
-["about", "关","/about.html"]
+["about", "关于","/about.html"]
 ]
 
 paginate: 8
