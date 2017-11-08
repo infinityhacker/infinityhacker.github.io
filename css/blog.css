@@ -6,8 +6,8 @@
 
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-	background-image:url(../favicon.jpg);
-	background-size:cover;
+	background-image:url(../favicon.jpg) repeat x;
+	
 }
 
 footer {
