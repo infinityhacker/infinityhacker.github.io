@@ -1,2 +1,2 @@
 welcome to my blog
-![image](infinityhacker.github.io/favicon.jpg)
+![image](/favicon.jpg)
