@@ -27,4 +27,4 @@ tags: [mimikataz的用法]
  ```
   ERROR kuhl_m_privilege_simple ; RtlAdjustPrivilege (20) c0000061
  ```
- 就说明权限不够:smiling_imp，测试的时候可以使用管理员身份运行
+ 就说明权限不够，测试的时候可以使用管理员身份运行
