@@ -18,8 +18,8 @@ tags: [mimikataz的用法]
   mimikatz # privilege::debug
   ```
   如果结果返回的是
-  
   ```
   privilege '20' OK
   ```
   则说明提权成功
+  
