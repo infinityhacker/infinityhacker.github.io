@@ -47,4 +47,4 @@ tags: [mimikataz的用法]
 
 
 
-[1]https://github.com/gentilkiwi/mimikatz
+[1]:https://github.com/gentilkiwi/mimikatz
