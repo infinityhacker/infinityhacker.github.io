@@ -40,7 +40,9 @@ tags: [mimikataz的用法]
  本电脑所有的用户以及密码，而且还是明文的喔！下面是实例
  ![image](/images/sekurlsa_test.jpg)
  
- 里面列举了本机的用户以及LM-hash,NTLM-hash和hash的值，同样的，更多的信息也能在sekurlsa::命令中得到
+
+
+里面列举了本机的用户以及LM-hash,NTLM-hash和hash的值，同样的，更多的信息也能在sekurlsa::命令中得到
 
 ### 0x03--结尾
 本文只是粗略地列出了最常用也是最简单的一种用法。更多的详细信息可以查看github上的项目[源代码][1],
