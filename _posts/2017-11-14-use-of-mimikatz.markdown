@@ -21,7 +21,5 @@ tags: [mimikataz的用法]
   
   ```
   privilege '20' OK
-  
   ```
-  
   则说明提权成功
