@@ -14,7 +14,7 @@ tags: [mimikataz的用法]
 ### 0x03--模块介绍
   mimikatz的模块很多，打开mimikatz后输入```::```就可以获得全部的模块介绍，最简单也是最主要的就是```previlege```模块里面的```debug```命令，主要用于第一步的提权操作，没有这个操作的话，下面的命令将 没有足够的权限运行。
 
-  ## privilege模块
+  ### privilege模块
 **命令:**
 ```
   mimikatz# privilege::debug
@@ -32,9 +32,10 @@ tags: [mimikataz的用法]
  
  当然，privilege模块还有很多功能来获取其他各种各样的权限，比如获取```驱动权限```，```安全权限```，```tcb权限```等，具体可以通过```privilege::```获得详细信息
  
-   ## sekurlsa模块
+   ### sekurlsa模块
  这个模块最常用的命令莫过于```logonPasswords```了，使用
  ```
  mimikatz# sekurlsa::logonPasswords
  ```
- 本电脑所有的用户以及密码，而且还是明文的喔！
+ 本电脑所有的用户以及密码，而且还是明文的喔！下面是实例
+ ![image](/images/sekurlsa-test)
