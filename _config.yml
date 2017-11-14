@@ -11,7 +11,7 @@ name: "梦想无限的大个人博客"
 url: http://www.dreaminfinity.cn
 domain: www.dreaminfinty.cn
 all_categories: [
-["android", "渗透","/posts/android.html"], 
+["android", "渗透","/posts/penetration.html"], 
 ["program", "html5","/posts/program.html"],
 ["web", "windows相关","/posts/web.html"], 
 ["linux", "Linux相关","/posts/linux.html"],
