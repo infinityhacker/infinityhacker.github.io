@@ -38,7 +38,7 @@ tags: [mimikataz的用法]
  mimikatz# sekurlsa::logonPasswords
  ```
  本电脑所有的用户以及密码，而且还是明文的喔！下面是实例
- ![image](/images/sekurlsa-test)
+ ![image](/images/sekurlsa_test)
  里面列举了本机的用户以及LM-hash,NTLM-hash和hash的值，同样的，更多的信息也能在sekurlsa::命令中得到
 
 ### 0x03--结尾
