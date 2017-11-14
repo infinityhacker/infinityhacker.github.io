@@ -13,7 +13,7 @@ tags: [mimikataz的用法]
 
 ### 0x03--模块介绍
   mimikatz的模块很多，最简单也是最主要的就是```previlege```模块里面的```debug```命令，主要用于第一步的提权操作，没有这个操作的话，下面的命令将 没有足够的权限运行
-  ***命令:***
+  **命令:**
   ```
   mimikatz# privilege::debug
   ```
