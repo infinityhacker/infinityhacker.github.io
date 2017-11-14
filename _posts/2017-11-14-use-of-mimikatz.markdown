@@ -42,6 +42,9 @@ tags: [mimikataz的用法]
  
 
 
+
+
+
 里面列举了本机的用户以及LM-hash,NTLM-hash和hash的值，同样的，更多的信息也能在sekurlsa::命令中得到
 
 ### 0x03--结尾
