@@ -22,5 +22,9 @@ tags: [mimikataz的用法]
 ```
   privilege '20' OK
 ```
-  则说明提权成功
-  
+  则说明提权成功。
+  如果返回的是
+ ```
+  ERROR kuhl_m_privilege_simple ; RtlAdjustPrivilege (20) c0000061
+ ```
+ 就说明权限不够，:smiling_imp:测试的时候可以使用管理员身份运行
